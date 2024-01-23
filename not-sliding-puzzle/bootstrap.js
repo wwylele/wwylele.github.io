@@ -58,17 +58,11 @@
 /******/ 					"__wbindgen_object_clone_ref": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_object_clone_ref"](p0i32);
 /******/ 					},
-/******/ 					"__wbindgen_string_new": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_string_new"](p0i32,p1i32);
-/******/ 					},
 /******/ 					"__wbindgen_object_drop_ref": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_object_drop_ref"](p0i32);
 /******/ 					},
-/******/ 					"__wbindgen_cb_drop": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_cb_drop"](p0i32);
-/******/ 					},
-/******/ 					"__wbindgen_is_undefined": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_is_undefined"](p0i32);
+/******/ 					"__wbindgen_string_new": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_string_new"](p0i32,p1i32);
 /******/ 					},
 /******/ 					"__wbg_new_abda76e883ba8a5f": function() {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_abda76e883ba8a5f"]();
@@ -78,18 +72,6 @@
 /******/ 					},
 /******/ 					"__wbg_error_f851667af71bcfc6": function(p0i32,p1i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_error_f851667af71bcfc6"](p0i32,p1i32);
-/******/ 					},
-/******/ 					"__wbg_offsetX_2a15015b9df991ec": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_offsetX_2a15015b9df991ec"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_offsetY_f4992c922228f662": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_offsetY_f4992c922228f662"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_webkitFullscreenElement_3a363126a251fcd9": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_webkitFullscreenElement_3a363126a251fcd9"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_Window_c0d141cc7e9b1f6d": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_Window_c0d141cc7e9b1f6d"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_scheduler_181be421fd0b2855": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_scheduler_181be421fd0b2855"](p0i32);
@@ -106,17 +88,11 @@
 /******/ 					"__wbg_postTask_319d3986858dc461": function(p0i32,p1i32,p2i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_postTask_319d3986858dc461"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbg_webkitRequestFullscreen_db1af6d8d06ed38d": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_webkitRequestFullscreen_db1af6d8d06ed38d"](p0i32);
+/******/ 					"__wbg_offsetX_2a15015b9df991ec": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_offsetX_2a15015b9df991ec"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_requestFullscreen_7a35806115b07885": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_requestFullscreen_7a35806115b07885"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_requestFullscreen_5a116c6464189b61": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_requestFullscreen_5a116c6464189b61"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_prototype_d761fd8c272c3aee": function() {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_prototype_d761fd8c272c3aee"]();
+/******/ 					"__wbg_offsetY_f4992c922228f662": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_offsetY_f4992c922228f662"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_onpointerrawupdate_2641d497db2638e4": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_onpointerrawupdate_2641d497db2638e4"](p0i32);
@@ -124,14 +100,29 @@
 /******/ 					"__wbg_getCoalescedEvents_806e5358e1f3130b": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_getCoalescedEvents_806e5358e1f3130b"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_queueMicrotask_118eeb525d584d9a": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_queueMicrotask_118eeb525d584d9a"](p0i32);
+/******/ 					"__wbg_requestFullscreen_7a35806115b07885": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_requestFullscreen_7a35806115b07885"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_queueMicrotask_26a89c14c53809c0": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_queueMicrotask_26a89c14c53809c0"](p0i32);
+/******/ 					"__wbg_webkitRequestFullscreen_db1af6d8d06ed38d": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_webkitRequestFullscreen_db1af6d8d06ed38d"](p0i32);
 /******/ 					},
-/******/ 					"__wbindgen_is_function": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_is_function"](p0i32);
+/******/ 					"__wbg_webkitFullscreenElement_3a363126a251fcd9": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_webkitFullscreenElement_3a363126a251fcd9"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_requestFullscreen_5a116c6464189b61": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_requestFullscreen_5a116c6464189b61"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_prototype_d761fd8c272c3aee": function() {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_prototype_d761fd8c272c3aee"]();
+/******/ 					},
+/******/ 					"__wbindgen_is_undefined": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_is_undefined"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_Window_c0d141cc7e9b1f6d": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_Window_c0d141cc7e9b1f6d"](p0i32);
+/******/ 					},
+/******/ 					"__wbindgen_cb_drop": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_cb_drop"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_performance_eeefc685c9bc38b4": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_performance_eeefc685c9bc38b4"](p0i32);
@@ -147,6 +138,21 @@
 /******/ 					},
 /******/ 					"__wbindgen_number_get": function(p0i32,p1i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_number_get"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_performance_3f3012faa4463882": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_performance_3f3012faa4463882"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_now_2fd65358804c9485": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_now_2fd65358804c9485"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_queueMicrotask_118eeb525d584d9a": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_queueMicrotask_118eeb525d584d9a"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_queueMicrotask_26a89c14c53809c0": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_queueMicrotask_26a89c14c53809c0"](p0i32);
+/******/ 					},
+/******/ 					"__wbindgen_is_function": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_is_function"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_instanceof_WebGl2RenderingContext_92adf5bbd2568b71": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_instanceof_WebGl2RenderingContext_92adf5bbd2568b71"](p0i32);
@@ -646,17 +652,20 @@
 /******/ 					"__wbg_querySelector_d86f889797c65e88": function(p0i32,p1i32,p2i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_querySelector_d86f889797c65e88"](p0i32,p1i32,p2i32);
 /******/ 					},
+/******/ 					"__wbg_setid_4a30be2ea97a37dd": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setid_4a30be2ea97a37dd"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__wbg_setinnerHTML_99deeacfff0ae4cc": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setinnerHTML_99deeacfff0ae4cc"](p0i32,p1i32,p2i32);
+/******/ 					},
 /******/ 					"__wbg_setAttribute_0918ea45d5a1c663": function(p0i32,p1i32,p2i32,p3i32,p4i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setAttribute_0918ea45d5a1c663"](p0i32,p1i32,p2i32,p3i32,p4i32);
 /******/ 					},
 /******/ 					"__wbg_setPointerCapture_02adb3c41a2a5367": function(p0i32,p1i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setPointerCapture_02adb3c41a2a5367"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_style_b32d5cb9a6bd4720": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_style_b32d5cb9a6bd4720"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_focus_623326ec4eefd224": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_focus_623326ec4eefd224"](p0i32);
+/******/ 					"__wbg_remove_ed2f62f1a8be044b": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_remove_ed2f62f1a8be044b"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_bufferData_9566a2faddca5792": function(p0i32,p1i32,p2i32,p3i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_bufferData_9566a2faddca5792"](p0i32,p1i32,p2i32,p3i32);
@@ -922,80 +931,20 @@
 /******/ 					"__wbg_warn_0e0204547af47087": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_warn_0e0204547af47087"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_drawArraysInstancedANGLE_4ba856b2c59d84b8": function(p0i32,p1i32,p2i32,p3i32,p4i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_drawArraysInstancedANGLE_4ba856b2c59d84b8"](p0i32,p1i32,p2i32,p3i32,p4i32);
+/******/ 					"__wbg_instanceof_HtmlElement_430cfa09315574cc": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_instanceof_HtmlElement_430cfa09315574cc"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_drawElementsInstancedANGLE_fdf5cd2eb03dd141": function(p0i32,p1i32,p2i32,p3i32,p4i32,p5i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_drawElementsInstancedANGLE_fdf5cd2eb03dd141"](p0i32,p1i32,p2i32,p3i32,p4i32,p5i32);
+/******/ 					"__wbg_setinnerText_50a32710b8f1b7b6": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setinnerText_50a32710b8f1b7b6"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbg_vertexAttribDivisorANGLE_51dd5c906f4912a2": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_vertexAttribDivisorANGLE_51dd5c906f4912a2"](p0i32,p1i32,p2i32);
+/******/ 					"__wbg_style_b32d5cb9a6bd4720": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_style_b32d5cb9a6bd4720"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_getPropertyValue_9f0d67e1a114f89a": function(p0i32,p1i32,p2i32,p3i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_getPropertyValue_9f0d67e1a114f89a"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					"__wbg_setonclick_da378f5c0567cc03": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setonclick_da378f5c0567cc03"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_removeProperty_569b8c8469084b23": function(p0i32,p1i32,p2i32,p3i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_removeProperty_569b8c8469084b23"](p0i32,p1i32,p2i32,p3i32);
-/******/ 					},
-/******/ 					"__wbg_setProperty_a763529f4ef8ac76": function(p0i32,p1i32,p2i32,p3i32,p4i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setProperty_a763529f4ef8ac76"](p0i32,p1i32,p2i32,p3i32,p4i32);
-/******/ 					},
-/******/ 					"__wbg_preventDefault_d2c7416966cb0632": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_preventDefault_d2c7416966cb0632"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_bindVertexArrayOES_e95cf32f50e47240": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_bindVertexArrayOES_e95cf32f50e47240"](p0i32,p1i32);
-/******/ 					},
-/******/ 					"__wbg_createVertexArrayOES_96ccfea00081dcf3": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_createVertexArrayOES_96ccfea00081dcf3"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_deleteVertexArrayOES_657b2572282b9dff": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_deleteVertexArrayOES_657b2572282b9dff"](p0i32,p1i32);
-/******/ 					},
-/******/ 					"__wbg_framebufferTextureMultiviewOVR_b4f234dba08738d7": function(p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_framebufferTextureMultiviewOVR_b4f234dba08738d7"](p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32);
-/******/ 					},
-/******/ 					"__wbg_deltaX_de18e6f358ab88cf": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_deltaX_de18e6f358ab88cf"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_deltaY_50a026b7421f883d": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_deltaY_50a026b7421f883d"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_deltaMode_b8290e36698673d0": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_deltaMode_b8290e36698673d0"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_width_05e7fce75535d85f": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_width_05e7fce75535d85f"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_height_51b9308e888df865": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_height_51b9308e888df865"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_pointerId_288a7753a42433eb": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_pointerId_288a7753a42433eb"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_pressure_ef807a4027b5b179": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_pressure_ef807a4027b5b179"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_pointerType_6421ba54876364b9": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_pointerType_6421ba54876364b9"](p0i32,p1i32);
-/******/ 					},
-/******/ 					"__wbg_getCoalescedEvents_727ac35c45831392": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_getCoalescedEvents_727ac35c45831392"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_contentRect_486b07f866c91a66": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_contentRect_486b07f866c91a66"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_devicePixelContentBoxSize_5f65d6c2bd58062b": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_devicePixelContentBoxSize_5f65d6c2bd58062b"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_signal_7876560d9d0f914c": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_signal_7876560d9d0f914c"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_new_fa36281638875de8": function() {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_fa36281638875de8"]();
-/******/ 					},
-/******/ 					"__wbg_abort_7792bf3f664d7bb3": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_abort_7792bf3f664d7bb3"](p0i32);
+/******/ 					"__wbg_focus_623326ec4eefd224": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_focus_623326ec4eefd224"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_instanceof_HtmlCanvasElement_a6076360513b6876": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_instanceof_HtmlCanvasElement_a6076360513b6876"](p0i32);
@@ -1015,29 +964,14 @@
 /******/ 					"__wbg_getContext_1daf9aba3e114993": function(p0i32,p1i32,p2i32,p3i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_getContext_1daf9aba3e114993"](p0i32,p1i32,p2i32,p3i32);
 /******/ 					},
-/******/ 					"__wbg_new_6617e215130d0025": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_6617e215130d0025"](p0i32);
+/******/ 					"__wbg_videoWidth_024256de61021e4a": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_videoWidth_024256de61021e4a"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_disconnect_d70bd32b9cb4687c": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_disconnect_d70bd32b9cb4687c"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_observe_9b6f7f1aa30c2fe0": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_observe_9b6f7f1aa30c2fe0"](p0i32,p1i32);
+/******/ 					"__wbg_videoHeight_2c601663d2d0211a": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_videoHeight_2c601663d2d0211a"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_isIntersecting_108350bd17ad1d04": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_isIntersecting_108350bd17ad1d04"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_media_3b4b8723e3ef28e6": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_media_3b4b8723e3ef28e6"](p0i32,p1i32);
-/******/ 					},
-/******/ 					"__wbg_matches_68b7ad47c1091323": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_matches_68b7ad47c1091323"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_addListener_0bbd0358c52d8a0e": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_addListener_0bbd0358c52d8a0e"](p0i32,p1i32);
-/******/ 					},
-/******/ 					"__wbg_removeListener_b8fc928c2300e3c6": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_removeListener_b8fc928c2300e3c6"](p0i32,p1i32);
 /******/ 					},
 /******/ 					"__wbg_close_04d3a9914c09e2f8": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_close_04d3a9914c09e2f8"](p0i32);
@@ -1063,14 +997,107 @@
 /******/ 					"__wbg_getContext_f183e180a122d091": function(p0i32,p1i32,p2i32,p3i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_getContext_f183e180a122d091"](p0i32,p1i32,p2i32,p3i32);
 /******/ 					},
-/******/ 					"__wbg_drawBuffersWEBGL_533ee2b72ddb728a": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_drawBuffersWEBGL_533ee2b72ddb728a"](p0i32,p1i32);
+/******/ 					"__wbg_inlineSize_61a4e582b0d875c2": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_inlineSize_61a4e582b0d875c2"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_width_7cfb8b6f2a8cc639": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_width_7cfb8b6f2a8cc639"](p0i32);
+/******/ 					"__wbg_blockSize_ad207c0d03bd1782": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_blockSize_ad207c0d03bd1782"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_height_6930ed73b88da306": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_height_6930ed73b88da306"](p0i32);
+/******/ 					"__wbg_result_e515a9bf8390ef47": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_result_e515a9bf8390ef47"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_setonload_427d4e894b2d55b4": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setonload_427d4e894b2d55b4"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_new_b07bacad2380fbb9": function() {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_b07bacad2380fbb9"]();
+/******/ 					},
+/******/ 					"__wbg_readAsArrayBuffer_84f69d5bca819f0a": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_readAsArrayBuffer_84f69d5bca819f0a"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_port1_55b3ea63b5d29a4d": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_port1_55b3ea63b5d29a4d"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_port2_78f5a59a4effe9f7": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_port2_78f5a59a4effe9f7"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_new_b7e038999edffb16": function() {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_b7e038999edffb16"]();
+/******/ 					},
+/******/ 					"__wbg_createObjectURL_0a02ce8c75afc373": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_createObjectURL_0a02ce8c75afc373"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_drawArraysInstancedANGLE_4ba856b2c59d84b8": function(p0i32,p1i32,p2i32,p3i32,p4i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_drawArraysInstancedANGLE_4ba856b2c59d84b8"](p0i32,p1i32,p2i32,p3i32,p4i32);
+/******/ 					},
+/******/ 					"__wbg_drawElementsInstancedANGLE_fdf5cd2eb03dd141": function(p0i32,p1i32,p2i32,p3i32,p4i32,p5i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_drawElementsInstancedANGLE_fdf5cd2eb03dd141"](p0i32,p1i32,p2i32,p3i32,p4i32,p5i32);
+/******/ 					},
+/******/ 					"__wbg_vertexAttribDivisorANGLE_51dd5c906f4912a2": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_vertexAttribDivisorANGLE_51dd5c906f4912a2"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__wbg_instanceof_HtmlInputElement_d53941bc0aaa6ae9": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_instanceof_HtmlInputElement_d53941bc0aaa6ae9"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_setaccept_daff69ab32942193": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setaccept_daff69ab32942193"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__wbg_files_0fe2affb0f600765": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_files_0fe2affb0f600765"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_setmultiple_ed858720a0451899": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setmultiple_ed858720a0451899"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_settype_c544f49a0425f209": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_settype_c544f49a0425f209"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__wbg_getSupportedProfiles_a3af04122b4f2f30": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_getSupportedProfiles_a3af04122b4f2f30"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_getPropertyValue_9f0d67e1a114f89a": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_getPropertyValue_9f0d67e1a114f89a"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					},
+/******/ 					"__wbg_removeProperty_569b8c8469084b23": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_removeProperty_569b8c8469084b23"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					},
+/******/ 					"__wbg_setProperty_a763529f4ef8ac76": function(p0i32,p1i32,p2i32,p3i32,p4i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setProperty_a763529f4ef8ac76"](p0i32,p1i32,p2i32,p3i32,p4i32);
+/******/ 					},
+/******/ 					"__wbg_new_6617e215130d0025": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_6617e215130d0025"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_disconnect_d70bd32b9cb4687c": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_disconnect_d70bd32b9cb4687c"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_observe_9b6f7f1aa30c2fe0": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_observe_9b6f7f1aa30c2fe0"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_appendChild_bd383ec5356c0bdb": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_appendChild_bd383ec5356c0bdb"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_contains_a94dd6fc112ea617": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_contains_a94dd6fc112ea617"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_framebufferTextureMultiviewOVR_b4f234dba08738d7": function(p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_framebufferTextureMultiviewOVR_b4f234dba08738d7"](p0i32,p1i32,p2i32,p3i32,p4i32,p5i32,p6i32);
+/******/ 					},
+/******/ 					"__wbg_persisted_032c13ba4aa8c6eb": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_persisted_032c13ba4aa8c6eb"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_contentRect_486b07f866c91a66": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_contentRect_486b07f866c91a66"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_devicePixelContentBoxSize_5f65d6c2bd58062b": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_devicePixelContentBoxSize_5f65d6c2bd58062b"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_newwithu8arraysequenceandoptions_d0ee7f095b8bf8eb": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_newwithu8arraysequenceandoptions_d0ee7f095b8bf8eb"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_length_5f3530f0f1af8661": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_length_5f3530f0f1af8661"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_get_f2ba4265e9e1e12b": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_get_f2ba4265e9e1e12b"](p0i32,p1i32);
 /******/ 					},
 /******/ 					"__wbg_ctrlKey_0d75e0e9028bd999": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_ctrlKey_0d75e0e9028bd999"](p0i32);
@@ -1096,50 +1123,26 @@
 /******/ 					"__wbg_movementY_a0be141073121d2c": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_movementY_a0be141073121d2c"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_new_862901d928bf4337": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_862901d928bf4337"](p0i32);
+/******/ 					"__wbg_drawBuffersWEBGL_533ee2b72ddb728a": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_drawBuffersWEBGL_533ee2b72ddb728a"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_disconnect_4c8e1494cd215540": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_disconnect_4c8e1494cd215540"](p0i32);
+/******/ 					"__wbg_signal_7876560d9d0f914c": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_signal_7876560d9d0f914c"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_observe_6cc6ed5bd384e675": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_observe_6cc6ed5bd384e675"](p0i32,p1i32);
+/******/ 					"__wbg_new_fa36281638875de8": function() {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_fa36281638875de8"]();
 /******/ 					},
-/******/ 					"__wbg_observe_daa84e012177febe": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_observe_daa84e012177febe"](p0i32,p1i32,p2i32);
+/******/ 					"__wbg_abort_7792bf3f664d7bb3": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_abort_7792bf3f664d7bb3"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_unobserve_6e4cf206c219430c": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_unobserve_6e4cf206c219430c"](p0i32,p1i32);
+/******/ 					"__wbg_preventDefault_d2c7416966cb0632": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_preventDefault_d2c7416966cb0632"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_appendChild_bd383ec5356c0bdb": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_appendChild_bd383ec5356c0bdb"](p0i32,p1i32);
+/******/ 					"__wbg_width_05e7fce75535d85f": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_width_05e7fce75535d85f"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_contains_a94dd6fc112ea617": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_contains_a94dd6fc112ea617"](p0i32,p1i32);
-/******/ 					},
-/******/ 					"__wbg_addEventListener_2f891d22985fd3c8": function(p0i32,p1i32,p2i32,p3i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_addEventListener_2f891d22985fd3c8"](p0i32,p1i32,p2i32,p3i32);
-/******/ 					},
-/******/ 					"__wbg_removeEventListener_07715e6f464823fc": function(p0i32,p1i32,p2i32,p3i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_removeEventListener_07715e6f464823fc"](p0i32,p1i32,p2i32,p3i32);
-/******/ 					},
-/******/ 					"__wbg_port1_55b3ea63b5d29a4d": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_port1_55b3ea63b5d29a4d"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_port2_78f5a59a4effe9f7": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_port2_78f5a59a4effe9f7"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_new_b7e038999edffb16": function() {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_b7e038999edffb16"]();
-/******/ 					},
-/******/ 					"__wbg_getSupportedProfiles_a3af04122b4f2f30": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_getSupportedProfiles_a3af04122b4f2f30"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_videoWidth_024256de61021e4a": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_videoWidth_024256de61021e4a"](p0i32);
-/******/ 					},
-/******/ 					"__wbg_videoHeight_2c601663d2d0211a": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_videoHeight_2c601663d2d0211a"](p0i32);
+/******/ 					"__wbg_height_51b9308e888df865": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_height_51b9308e888df865"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_altKey_c3c61dc3af936846": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_altKey_c3c61dc3af936846"](p0i32);
@@ -1165,20 +1168,86 @@
 /******/ 					"__wbg_code_3b51bddc7419ef7d": function(p0i32,p1i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_code_3b51bddc7419ef7d"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_persisted_032c13ba4aa8c6eb": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_persisted_032c13ba4aa8c6eb"](p0i32);
+/******/ 					"__wbg_media_3b4b8723e3ef28e6": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_media_3b4b8723e3ef28e6"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_inlineSize_61a4e582b0d875c2": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_inlineSize_61a4e582b0d875c2"](p0i32);
+/******/ 					"__wbg_matches_68b7ad47c1091323": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_matches_68b7ad47c1091323"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_blockSize_ad207c0d03bd1782": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_blockSize_ad207c0d03bd1782"](p0i32);
+/******/ 					"__wbg_addListener_0bbd0358c52d8a0e": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_addListener_0bbd0358c52d8a0e"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_performance_3f3012faa4463882": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_performance_3f3012faa4463882"](p0i32);
+/******/ 					"__wbg_removeListener_b8fc928c2300e3c6": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_removeListener_b8fc928c2300e3c6"](p0i32,p1i32);
 /******/ 					},
-/******/ 					"__wbg_now_2fd65358804c9485": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_now_2fd65358804c9485"](p0i32);
+/******/ 					"__wbg_bindVertexArrayOES_e95cf32f50e47240": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_bindVertexArrayOES_e95cf32f50e47240"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_createVertexArrayOES_96ccfea00081dcf3": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_createVertexArrayOES_96ccfea00081dcf3"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_deleteVertexArrayOES_657b2572282b9dff": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_deleteVertexArrayOES_657b2572282b9dff"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_pointerId_288a7753a42433eb": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_pointerId_288a7753a42433eb"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_pressure_ef807a4027b5b179": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_pressure_ef807a4027b5b179"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_pointerType_6421ba54876364b9": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_pointerType_6421ba54876364b9"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_getCoalescedEvents_727ac35c45831392": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_getCoalescedEvents_727ac35c45831392"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_deltaX_de18e6f358ab88cf": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_deltaX_de18e6f358ab88cf"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_deltaY_50a026b7421f883d": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_deltaY_50a026b7421f883d"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_deltaMode_b8290e36698673d0": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_deltaMode_b8290e36698673d0"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_width_7cfb8b6f2a8cc639": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_width_7cfb8b6f2a8cc639"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_height_6930ed73b88da306": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_height_6930ed73b88da306"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_addEventListener_2f891d22985fd3c8": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_addEventListener_2f891d22985fd3c8"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					},
+/******/ 					"__wbg_removeEventListener_07715e6f464823fc": function(p0i32,p1i32,p2i32,p3i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_removeEventListener_07715e6f464823fc"](p0i32,p1i32,p2i32,p3i32);
+/******/ 					},
+/******/ 					"__wbg_instanceof_HtmlAnchorElement_afbec6867d883d45": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_instanceof_HtmlAnchorElement_afbec6867d883d45"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_setdownload_27aa66329922270e": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_setdownload_27aa66329922270e"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__wbg_sethref_e4f758ffb6abc79c": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_sethref_e4f758ffb6abc79c"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__wbg_instanceof_HtmlButtonElement_2e288583ed44f37c": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_instanceof_HtmlButtonElement_2e288583ed44f37c"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_new_862901d928bf4337": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_862901d928bf4337"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_disconnect_4c8e1494cd215540": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_disconnect_4c8e1494cd215540"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_observe_6cc6ed5bd384e675": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_observe_6cc6ed5bd384e675"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_observe_daa84e012177febe": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_observe_daa84e012177febe"](p0i32,p1i32,p2i32);
+/******/ 					},
+/******/ 					"__wbg_unobserve_6e4cf206c219430c": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_unobserve_6e4cf206c219430c"](p0i32,p1i32);
 /******/ 					},
 /******/ 					"__wbg_crypto_d05b68a3572bb8ca": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_crypto_d05b68a3572bb8ca"](p0i32);
@@ -1198,11 +1267,11 @@
 /******/ 					"__wbindgen_is_string": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_is_string"](p0i32);
 /******/ 					},
-/******/ 					"__wbg_msCrypto_10fc94afee92bd76": function(p0i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_msCrypto_10fc94afee92bd76"](p0i32);
-/******/ 					},
 /******/ 					"__wbg_require_9a7e0f667ead4995": function() {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_require_9a7e0f667ead4995"]();
+/******/ 					},
+/******/ 					"__wbg_msCrypto_10fc94afee92bd76": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_msCrypto_10fc94afee92bd76"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_randomFillSync_b70ccbdf4926a99d": function(p0i32,p1i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_randomFillSync_b70ccbdf4926a99d"](p0i32,p1i32);
@@ -1258,6 +1327,9 @@
 /******/ 					"__wbg_is_a5728dbfb61c82cd": function(p0i32,p1i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_is_a5728dbfb61c82cd"](p0i32,p1i32);
 /******/ 					},
+/******/ 					"__wbg_new_1d93771b84541aa5": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_new_1d93771b84541aa5"](p0i32,p1i32);
+/******/ 					},
 /******/ 					"__wbg_resolve_97ecd55ee839391b": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_resolve_97ecd55ee839391b"](p0i32);
 /******/ 					},
@@ -1266,6 +1338,9 @@
 /******/ 					},
 /******/ 					"__wbg_then_7aeb7c5f1536640f": function(p0i32,p1i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_then_7aeb7c5f1536640f"](p0i32,p1i32);
+/******/ 					},
+/******/ 					"__wbg_then_5842e4e97f7beace": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_then_5842e4e97f7beace"](p0i32,p1i32,p2i32);
 /******/ 					},
 /******/ 					"__wbg_buffer_5d1b598a01b41a42": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_buffer_5d1b598a01b41a42"](p0i32);
@@ -1288,6 +1363,9 @@
 /******/ 					"__wbg_set_74906aa30864df5a": function(p0i32,p1i32,p2i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_set_74906aa30864df5a"](p0i32,p1i32,p2i32);
 /******/ 					},
+/******/ 					"__wbg_length_f0764416ba5bb237": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_length_f0764416ba5bb237"](p0i32);
+/******/ 					},
 /******/ 					"__wbg_newwithbyteoffsetandlength_2412e38a0385bbe2": function(p0i32,p1i32,p2i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_newwithbyteoffsetandlength_2412e38a0385bbe2"](p0i32,p1i32,p2i32);
 /******/ 					},
@@ -1299,6 +1377,9 @@
 /******/ 					},
 /******/ 					"__wbg_newwithlength_728575f3bba9959b": function(p0i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_newwithlength_728575f3bba9959b"](p0i32);
+/******/ 					},
+/******/ 					"__wbg_buffer_3da2aecfd9814cd8": function(p0i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_buffer_3da2aecfd9814cd8"](p0i32);
 /******/ 					},
 /******/ 					"__wbg_subarray_7f7a652672800851": function(p0i32,p1i32,p2i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbg_subarray_7f7a652672800851"](p0i32,p1i32,p2i32);
@@ -1318,47 +1399,35 @@
 /******/ 					"__wbindgen_closure_wrapper611": function(p0i32,p1i32,p2i32) {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper611"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper612": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper612"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper619": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper619"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper613": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper613"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper625": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper625"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper614": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper614"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3630": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3630"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper615": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper615"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3632": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3632"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper616": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper616"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3634": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3634"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper617": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper617"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3638": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3638"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper2395": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper2395"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3643": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3643"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper2396": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper2396"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3650": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3650"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper2397": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper2397"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper9107": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper9107"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper2398": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper2398"](p0i32,p1i32,p2i32);
-/******/ 					},
-/******/ 					"__wbindgen_closure_wrapper2399": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper2399"](p0i32,p1i32,p2i32);
-/******/ 					},
-/******/ 					"__wbindgen_closure_wrapper2400": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper2400"](p0i32,p1i32,p2i32);
-/******/ 					},
-/******/ 					"__wbindgen_closure_wrapper2406": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper2406"](p0i32,p1i32,p2i32);
-/******/ 					},
-/******/ 					"__wbindgen_closure_wrapper2570": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper2570"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper9139": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper9139"](p0i32,p1i32,p2i32);
 /******/ 					}
 /******/ 				}
 /******/ 			};
@@ -1461,7 +1530,7 @@
 /******/ 				promises.push(installedWasmModuleData);
 /******/ 			else {
 /******/ 				var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 				var req = fetch(__webpack_require__.p + "" + {"../pkg/notslidingpuzzle_bg.wasm":"fca6c407ae245c69b5db"}[wasmModuleId] + ".module.wasm");
+/******/ 				var req = fetch(__webpack_require__.p + "" + {"../pkg/notslidingpuzzle_bg.wasm":"ec2305dee7989f85c18b"}[wasmModuleId] + ".module.wasm");
 /******/ 				var promise;
 /******/ 				if(importObject instanceof Promise && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 					promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
