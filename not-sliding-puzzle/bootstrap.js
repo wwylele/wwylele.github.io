@@ -1396,38 +1396,38 @@
 /******/ 					"__wbindgen_memory": function() {
 /******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_memory"]();
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper611": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper611"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper612": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper612"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper619": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper619"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper620": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper620"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper625": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper625"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper626": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper626"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper3630": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3630"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3631": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3631"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper3632": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3632"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3633": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3633"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper3634": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3634"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3635": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3635"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper3638": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3638"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3639": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3639"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper3643": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3643"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3644": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3644"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper3650": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3650"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper3651": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper3651"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper9107": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper9107"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper9108": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper9108"](p0i32,p1i32,p2i32);
 /******/ 					},
-/******/ 					"__wbindgen_closure_wrapper9139": function(p0i32,p1i32,p2i32) {
-/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper9139"](p0i32,p1i32,p2i32);
+/******/ 					"__wbindgen_closure_wrapper9140": function(p0i32,p1i32,p2i32) {
+/******/ 						return installedModules["../pkg/notslidingpuzzle_bg.js"].exports["__wbindgen_closure_wrapper9140"](p0i32,p1i32,p2i32);
 /******/ 					}
 /******/ 				}
 /******/ 			};
@@ -1530,7 +1530,7 @@
 /******/ 				promises.push(installedWasmModuleData);
 /******/ 			else {
 /******/ 				var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 				var req = fetch(__webpack_require__.p + "" + {"../pkg/notslidingpuzzle_bg.wasm":"ec2305dee7989f85c18b"}[wasmModuleId] + ".module.wasm");
+/******/ 				var req = fetch(__webpack_require__.p + "" + {"../pkg/notslidingpuzzle_bg.wasm":"a86f6ba472c9eb719bc4"}[wasmModuleId] + ".module.wasm");
 /******/ 				var promise;
 /******/ 				if(importObject instanceof Promise && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 					promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
